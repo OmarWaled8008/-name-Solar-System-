@@ -1,0 +1,24 @@
+name : "tt"
+
+on:
+  push:
+    branches:
+      - main
+    
+
+jobs:
+t1:
+steps:
+
+    - name: "tt2"
+      run: echo "tt3"
+    - name: "tt4"
+      run: echo "tt5"
+    - name: "tt6"
+      run: echo "tt7"
+    - name: "tt8"
+      run: echo "tt9"
+    - name: "tt10"
+      run: echo "tt11"
+    - name: "tt12"
+      run: echo "tt13"
